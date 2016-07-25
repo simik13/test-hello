@@ -1,2 +1,2 @@
 all:
-	HW.cpp -0 HelloWorld
+	g++ HW.cpp -o HelloWorld
